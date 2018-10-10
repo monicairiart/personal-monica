@@ -1,0 +1,11 @@
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\bin\Debug\AbodeProducts.exe.config
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\bin\Debug\AbodeProducts.exe
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\bin\Debug\AbodeProducts.pdb
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.Properties.Resources.resources
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.csproj.GenerateResource.Cache
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.exe
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.pdb
+C:\ort-2018-2s-DA1\trabajo en obligatorio 1da con denis\AbodeProducts\AbodeProducts\bin\Debug\AbodeProducts.exe.config
+C:\ort-2018-2s-DA1\trabajo en obligatorio 1da con denis\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.exe
+C:\ort-2018-2s-DA1\trabajo en obligatorio 1da con denis\AbodeProducts\AbodeProducts\obj\Debug\AbodeProducts.pdb

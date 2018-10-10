@@ -1,0 +1,5 @@
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts.Domain\bin\Debug\AbodeProducts.Domain.dll
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts.Domain\bin\Debug\AbodeProducts.Domain.pdb
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts.Domain\obj\Debug\AbodeProducts.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts.Domain\obj\Debug\AbodeProducts.Domain.dll
+C:\Users\Monica\Documents\ob-145992-76637\AbodeProducts\AbodeProducts.Domain\obj\Debug\AbodeProducts.Domain.pdb
